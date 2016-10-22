@@ -32,7 +32,7 @@
 
     // PAYMENT
     // url will be nested (/form/payment)
-    .state('form-payment', {
+    .state('form.payment', {
       url: '/form/payment',
       templateUrl: 'form-payment.html'
     });
